@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "SMG - Customizations",
+    'name': "SMG-Customizations",
 
     'summary': """
         This module intend to customize the functions and list to
